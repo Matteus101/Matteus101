@@ -1,6 +1,6 @@
 # Hey Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Matteus and I am a young Full Stack Developer! 
+My name is Matt and I am a young Full Stack Developer! 
 
 
 ## 🔧 Technologies & Tools
